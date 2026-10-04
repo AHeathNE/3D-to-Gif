@@ -1,5 +1,7 @@
 # 3D → GIF Workstation
 
+**Live site:** https://aheathne.github.io/3D-to-Gif/
+
 A browser-based tool for turning an STL or OBJ model into a looping animated GIF: import a model (or start from a built-in cube/sphere/pyramid), texture it, set a background, orient it, animate it (spin the object or orbit the camera), and export a GIF at a chosen size.
 
 Everything runs client-side — there's no backend or server component, so it can be hosted as a static site.
